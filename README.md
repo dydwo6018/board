@@ -10,6 +10,10 @@
 - [x] 댓글(Comment) 엔티티 설계
 - [ ] JPA Auditing 설정
 
+### Repository 생성
+- [x] PostRepository 생성
+- [x] CommentRepository 생성
+
 ### DTO 설계
 - [ ] 게시글 등록 요청 DTO (PostCreateRequestDto)
 - [ ] 게시글 응답 DTO (PostResponseDto)
@@ -18,10 +22,6 @@
 - [ ] 댓글 등록 요청 DTO (CommentCreateRequestDto)
 - [ ] 댓글 응답 DTO (CommentResponseDto)
 - [ ] 댓글 수정 요청 DTO (CommentUpdateRequestDto)
-
-### Repository 생성
-- [ ] PostRepository 생성
-- [ ] CommentRepository 생성
 
 ### Service 로직
 - [ ] 게시글 등록 기능 구현
