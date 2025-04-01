@@ -1,13 +1,13 @@
 ## TODO List
 
 ### 프로젝트 초기 설정
-- [O] Spring Boot 프로젝트 생성 
-- [O] 의존성 추가 
-- [O] application.yml 설정
+- [x] Spring Boot 프로젝트 생성 
+- [x] 의존성 추가 
+- [x] application.yml 설정
 
 ### Entity 설계
-- [O] 게시글(Post) 엔티티 설계
-- [O] 댓글(Comment) 엔티티 설계
+- [x] 게시글(Post) 엔티티 설계
+- [x] 댓글(Comment) 엔티티 설계
 - [ ] JPA Auditing 설정
 
 ### DTO 설계
